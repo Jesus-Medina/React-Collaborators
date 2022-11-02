@@ -2,6 +2,7 @@
 
 Link to the web: https://collaborators.exitmatrix.ga/
 
+![pagina](https://user-images.githubusercontent.com/102434136/199586676-87e7c647-6f1b-49d3-8b02-dca3f19e0768.png)
 
 
 # Getting Started with Create React App
