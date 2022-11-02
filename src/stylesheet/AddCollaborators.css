@@ -1,0 +1,21 @@
+.add_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_container {
+  width: 300px;
+  border-radius: 1rem;
+  background-color: #212529;
+  -webkit-box-shadow: 0px 0px 1px 0px rgba(105, 105, 105, 1);
+  -moz-box-shadow: 0px 0px 1px 0px rgba(105, 105, 105, 1);
+  box-shadow: 0px 0px 1px 0px rgba(105, 105, 105, 1);
+}
+
+@media only screen and (min-width: 600px) {
+  .form_container {
+    width: 400px;
+  }
+}

@@ -1,0 +1,16 @@
+.collaborators_table {
+  height: 300px;
+  overflow: scroll;
+}
+
+.culumn-1, .culumn-4 {
+  max-width: 10%;
+}
+
+.culumn-2, .culumn-5 {
+  max-width: 30%;
+}
+
+.culumn-3, .culumn-6 {
+  max-width: 60%;
+}
